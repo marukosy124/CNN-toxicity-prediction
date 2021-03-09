@@ -1,6 +1,6 @@
 # Neural Network Project
 
-## Synopsis
+## Abstract
 
 Design and train a Deep Neural Network using TensorFlow to predict the toxicity of drug molecules from the their chemical expressions.​
 
